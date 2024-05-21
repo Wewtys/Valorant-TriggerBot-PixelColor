@@ -30,18 +30,9 @@ return
 F2::
 SoundBeep, 300, 200
 settimer, loop1, 10
-settimer, loop2, off
-return
-F3::
-SoundBeep, 500, 200
-settimer, loop1, off
 settimer, loop2, 10
 return
-F4::
-SoundBeep, 700, 200
-settimer, loop1, 10
-settimer, loop2, 10
-return
+
 
 ;---loop---
 
